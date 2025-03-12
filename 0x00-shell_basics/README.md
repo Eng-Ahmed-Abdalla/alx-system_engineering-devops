@@ -9,7 +9,7 @@ This repository contains the tasks and projects for the ALX Zero Day program. It
 2. [Learning Objectives](#learning-objectives)
 3. [Requirements](#requirements)
 4. [Tasks](#tasks)
-5. [Usage](#usage)
+5. [Resources](#Resources)
 
 ---
 
@@ -97,9 +97,9 @@ By the end of this project, you should be able to:
 3. Commit and push the `.gitignore` file.
 
 ---
-
-## Usage
-To clone and use this repository:
-```bash
-git clone https://github.com/{YOUR_USERNAME}/alx-zero_day.git
-cd alx-zero_day
+##Resources
+[Resources to learn Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
+[About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+[How to write a Git commit message](https://cbea.ms/git-commit/)
+[Learning branching](https://learngitbranching.js.org/)
+[Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
