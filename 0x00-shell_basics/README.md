@@ -9,7 +9,10 @@ This repository contains the tasks and projects for the ALX Zero Day program. It
 2. [Learning Objectives](#learning-objectives)
 3. [Requirements](#requirements)
 4. [Tasks](#tasks)
-5. [Resources](#Resources)
+5. [Resources](#resources)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ---
 
@@ -97,9 +100,14 @@ By the end of this project, you should be able to:
 3. Commit and push the `.gitignore` file.
 
 ---
-##Resources
-[Resources to learn Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
-[About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-[How to write a Git commit message](https://cbea.ms/git-commit/)
-[Learning branching](https://learngitbranching.js.org/)
-[Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+
+## Resources
+- [Resources to learn Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [How to write a Git commit message](https://cbea.ms/git-commit/)
+- [Learning branching](https://learngitbranching.js.org/)
+- [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+
+---
+
+## Usage
